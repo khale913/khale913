@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khale913
 - 👀 I’m interested in Blockchain App Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React.js
 
 
 <!---

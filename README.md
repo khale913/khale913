@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelton
-- 👀 I’m interested in Blockchain App Development
-- 🌱 I’m currently learning React.js
+- 💻 Front-End Developer at Cannapedia
+
 
 
 <!---

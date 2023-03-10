@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelton
-- 💻 Front-End Developer at Cannapedia
+- 💻 Product Owner at Cannapedia
 
 
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelton
-- 💻 Full Stack Developer at Cannapedia
+- 💻 Full Stack Javascript Developer
 
 
 
